@@ -238,7 +238,7 @@ print(me.motto())
   <i>"Build things that matter. Learn things that last."</i>
   <br/><br/>
   📬 Reach me at <a href="mailto:sureshmathav123@gmail.com">sureshmathav123@gmail.com</a> &nbsp;|&nbsp;
-  🌐 <a href="https://sureshmathav-portfolio.vercel.app">Portfolio</a> &nbsp;|&nbsp;
+  🌐 <a href="https://sureshmathav.vercel.app">Portfolio</a> &nbsp;|&nbsp;
   💼 <a href="https://github.com/Sureshmathav2004">GitHub</a>
 </div>
 
