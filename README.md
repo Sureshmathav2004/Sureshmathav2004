@@ -13,13 +13,13 @@
   <a href="https://github.com/Sureshmathav2004?tab=followers">
     <img src="https://img.shields.io/github/followers/Sureshmathav2004?label=Followers&style=flat-square&color=70a5fd" alt="GitHub Followers" />
   </a>
-  <a href="https://www.linkedin.com/in/sureshmathav">
+  <a href="https://www.linkedin.com/in/suresh-mathav">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sureshmathav123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-sureshmathav123-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://sureshmathav-portfolio.vercel.app">
+  <a href="https://sureshmathav.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
