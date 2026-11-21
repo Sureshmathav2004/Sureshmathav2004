@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/suresh-mathav"><img src="./cards/tile-build.svg" width="33.333%" alt="BUILD: 4 internships" /></a><a href="https://github.com/Sureshmathav2004?tab=repositories"><img src="./cards/tile-ship.svg" width="33.333%" alt="SHIP: 3 live apps" /></a><a href="https://sureshmathav-inuk.vercel.app"><img src="./cards/tile-learn.svg" width="33.333%" alt="LEARN: MSc in AI" /></a><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-dark.svg" /><img src="./cards/title-light.svg" width="100%" alt="What I'm building" /></picture><br>
 <!-- cards:repos:start -->
-<a href="https://github.com/Sureshmathav2004"><img src="./cards/repo-smartml-prep.svg" width="33.333%" alt="SmartML-Prep" /></a><a href="https://github.com/Sureshmathav2004"><img src="./cards/repo-bakabyte.svg" width="33.333%" alt="BakaByte" /></a><a href="https://github.com/Sureshmathav2004"><img src="./cards/repo-customer-churn-prediction.svg" width="33.333%" alt="Customer-Churn-Prediction" /></a>
+<a href="https://github.com/Sureshmathav2004/Cheating-Detection-using-Eye-ball-Gazing"><img src="./cards/repo-cheating-detection-using-eye-ball-gazing.svg" width="33.333%" alt="Cheating-Detection-using-Eye-ball-Gazing" /></a><a href="https://github.com/Sureshmathav2004/Sureshmathav2004"><img src="./cards/repo-sureshmathav2004.svg" width="33.333%" alt="Sureshmathav2004" /></a><a href="https://github.com/Sureshmathav2004/NexCellSolution-intern"><img src="./cards/repo-nexcellsolution-intern.svg" width="33.333%" alt="NexCellSolution-intern" /></a>
 <!-- cards:repos:end -->
 </div>
 
