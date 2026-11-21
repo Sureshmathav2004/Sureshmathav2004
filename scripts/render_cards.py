@@ -389,7 +389,8 @@ def stats(days: list[tuple[dt.date, int]]) -> dict:
 
 
 def featured_repos(user: dict) -> list[dict]:
-    pool = {r["name"]: r for r in (user.get("repositories") or {}).get("nodes", []) if r}
+    own = CONFIG["login"].lower()  # never feature the profile README repo itself
+    pool = {r["name"]: r for r in (user.get("repositories") or {}).get("nodes", []) if r and r["name"].lower() != own}
     pinned = [r for r in (user.get("pinnedItems") or {}).get("nodes", []) if r]
     pool.update({r["name"]: r for r in pinned})
     if CONFIG["featured"]:
